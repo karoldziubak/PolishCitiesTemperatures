@@ -1,0 +1,1 @@
+col_names = ["temp_min", "temp_max", "station_name"]
